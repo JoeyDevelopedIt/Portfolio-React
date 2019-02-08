@@ -2,11 +2,11 @@ let resumeData = {
     "imagebaseurl":"",
     "name": "Joseph Adam Martinez",
     "role": "Frontend Developer",
-    "linkedinId":"josephadam313",
+    "linkedinId":"josephadam13",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/josephadam313/",
+          "url":"https://www.linkedin.com/in/josephadam13/",
           "className":"fa fa-linkedin"
         },
         {
@@ -27,7 +27,7 @@ let resumeData = {
       {
         "name":"Brewtiful",
         "description":"Brewtiful is an app that utilizes multiple API's to help users find their closest Breweries and new beers to try! Brewtiful makes use of jQuery, BootStrap, Foundations, Firebase, Google API's, BreweryDB API's and hard work. The app features an index page where users can enter a zip code to generate a list of breweries in a 5km radius. The index page also allows users look through a varied selection of popular beer types to find new ones to try.",
-        "url":"https://shawnard.github.io/Brewtiful/index.html",
+        "url":"https://joeydevelopedit.github.io/Brewtiful/",
         "className":"fa fa-github",
       },
       {
@@ -38,7 +38,7 @@ let resumeData = {
       {
         "name":"Collab",
         "description":"When a musician wants to collaborate with other musicians what do they do? They have to search through hundreds of soundcloud pages or craigslist ads. Whats the answer? Collab is an app that helps musicians find other musicians to collaborate with based on their compatibility. Compatibility will be based on a questionnaire that finds you the perfect artist to collab with.",  
-        "url":"https://splice.com",
+        "url":"https://appcollab.herokuapp.com/",
       },
  
 
